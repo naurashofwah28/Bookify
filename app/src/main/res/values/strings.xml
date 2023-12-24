@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bookify(1)</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uid">Uid</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="add_note">Tambah Note</string>
+    <!-- Firebase API Key -->
+    <string name="google_api_key">AIzaSyCQ2pjAwQAtpYMFonCYbX-3Rl95O1Ad_kY</string>
+
+    <!-- Firebase Auth Domain -->
+    <string name="firebase_auth_domain">bookify-bd46f.firebaseapp.com</string>
+
+    <!-- Firebase Database URL -->
+    <string name="firebase_database_url">https://bookify-bd46f-default-rtdb.firebaseio.com/</string>
+
+    <!-- Firebase Project ID -->
+    <string name="firebase_project_id">bookify-bd46f</string>
+
+    <!-- Firebase Storage Bucket -->
+    <string name="firebase_storage_bucket">gs://bookify-bd46f.appspot.com</string>
+</resources>
